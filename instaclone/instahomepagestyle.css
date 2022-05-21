@@ -1,0 +1,91 @@
+.top{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.start{
+    display:flex;
+    flex-direction: row;
+}
+form{
+    padding-left: 150px;
+    border-radius: 40%;
+}
+nav ul li{
+    list-style-type: none;
+}
+.right img{
+    border-radius: 50%;
+    padding: 10px;
+}
+.right{
+    display: flex;
+    align-items: flex-start;
+    padding-left: 100px;
+}
+body{
+    background-color: rgb(248, 245, 245);
+}
+img{
+    border-radius: 50%;
+}
+.story{
+    
+    height: 100px;
+   width: 550px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.i{
+    border-radius: 50%;
+    border: 5px solid rgb(235, 59, 97);
+}
+.c{
+    display: flex;
+    flex-direction: column;
+}
+.l{
+    padding-left: 500 px;
+}
+.cd{
+    padding-top: 50px;
+    padding-left: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.d{
+    line-height: 70%;
+} 
+
+.bottom{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.crazy{
+    border-radius: 0%;
+}
+.image{
+    display: flex;
+    flex-direction: row;
+}
+.post{
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+}
+.position{
+    display: flex;
+    justify-content: center;
+}
+.vidh{
+    display: flex;
+    flex-direction: column;
+}
